@@ -96,7 +96,11 @@ html_sidebars = {
   ]
 }
     
+#html_theme_options = {
+#}
+
 html_theme_options = {
+  'analytics_id' : 'UA-123031237-2'
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
