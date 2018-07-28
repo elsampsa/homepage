@@ -6,6 +6,10 @@
 Sampsa Riikonen
 ===============
 
+.. meta::
+   :description: Homepage of Sampsa Riikonen, an expert in python and c++
+   :keywords: python, c++, video surveillance
+
 Welcome to my (brief) homepage
 
 .. toctree::
@@ -16,4 +20,3 @@ Welcome to my (brief) homepage
    science
    photos
    
-
