@@ -7,7 +7,7 @@ Sampsa Riikonen
 ===============
 
 .. meta::
-   :description: Homepage of Sampsa Riikonen, an expert in python and c++
+   :description: Homepage of Sampsa Riikonen, a pro in Python and C++ :)
    :keywords: python, c++, video surveillance
 
 Welcome to my (brief) homepage

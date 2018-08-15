@@ -16,7 +16,7 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
-import sphinx_bootstrap_theme
+# import sphinx_bootstrap_theme
 
 # -- Project information -----------------------------------------------------
 
@@ -122,7 +122,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'Homepagedoc'
+htmlhelp_basename = 'Homepage'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -149,7 +149,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'Homepage.tex', 'Homepage Documentation',
+    (master_doc, 'Homepage.tex', 'Homepage',
      'Sampsa Riikonen', 'manual'),
 ]
 
@@ -159,7 +159,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'homepage', 'Homepage Documentation',
+    (master_doc, 'homepage', 'Homepage',
      [author], 1)
 ]
 
@@ -170,7 +170,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'Homepage', 'Homepage Documentation',
+    (master_doc, 'Homepage', 'Homepage',
      author, 'Homepage', 'One line description of project.',
      'Miscellaneous'),
 ]
